@@ -1,0 +1,31 @@
+h1{
+  color:red;
+  font-size: 50px;
+  font-family: serif;
+  }
+
+  img:hover{
+    background-color:#D3ECA7;
+  }
+
+
+.waffle {
+  background-color:violet;
+}
+.pizza{
+  background-color: #B762C1;
+}
+.circular{
+  border-radius:100%;
+}
+p {
+  font-family: comic sans ms;
+  color: #694E4E;
+}
+body{
+  background-color: #EDCDBB;
+}
+
+#heading{
+  color:#B8405E;
+}
